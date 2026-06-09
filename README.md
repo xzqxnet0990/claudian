@@ -8,6 +8,14 @@
 
 An Obsidian plugin that embeds AI coding agents (Claude Code, Codex, Opencode, Pi, and more to come) in your vault. Your vault becomes the agent's working directory — file read/write, search, bash, and multi-step workflows all work out of the box.
 
+## Sponsors
+
+### 🥇 Sponsor — [Ke Holdings Inc. (Beike)](https://github.com/beike-org)
+
+<a href="https://github.com/beike-org"><img src="assets/Generated%20Image%20June%2009%2C%202026%20-%207_32PM.jpg" width="100%"></a>
+
+Claudian is proudly sponsored by [Ke Holdings Inc. (Beike)](https://github.com/beike-org). Their support makes continued development and maintenance of this open-source project possible.
+
 ## Features & Usage
 
 Open the chat sidebar from the ribbon icon or command palette. Select text and use the hotkey for inline edit. Everything works like your familiar coding agent, Claude Code, Codex, Opencode, and Pi — talk to the agent, and it reads, writes, edits, and searches files in your vault.
