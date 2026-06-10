@@ -10,11 +10,12 @@ An Obsidian plugin that embeds AI coding agents (Claude Code, Codex, Opencode, P
 
 ## Sponsors
 
-### 🥇 Sponsor — [Ke Holdings Inc. (Beike)](https://github.com/beike-org)
+### 🥇 Sponsor — Ke Holdings Inc. (BEIKE)
 
-<a href="https://github.com/beike-org"><img src="assets/Generated%20Image%20June%2009%2C%202026%20-%207_32PM.jpg" width="100%"></a>
+<img src="assets/20260610132217_142_1009.jpg" width="75%">
 
-Claudian is proudly sponsored by [Ke Holdings Inc. (Beike)](https://github.com/beike-org). Their support makes continued development and maintenance of this open-source project possible.
+Claudian is proudly sponsored by Ke Holdings Inc. (BEIKE) and the MOMA team. Their support helps Claudian continue to
+improve through ongoing development and maintenance.
 
 ## Features & Usage
 
